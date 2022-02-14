@@ -1,10 +1,10 @@
 # wanted_pre_onboarding
 wanted Pro-onboarding 지원을 위한 사전과제 입니다.
 
-내용
+##내용
 ### **문제 1) Tokenizer 생성하기**
 
-**1-1. `preprocessing()`** 완
+**1-1. `preprocessing()`**
 
 텍스트 전처리를 하는 함수입니다.
 
